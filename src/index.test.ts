@@ -51,36 +51,6 @@ describe("Non regression tests", () => {
 
       // WHEN
       gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
-      gildedRose.updateQuality();
     });
   });
 

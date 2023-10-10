@@ -1,35 +1,18 @@
-export class Item {
-  name: string;
-  sellIn: number;
-  quality: number;
+import { Item } from "./types/Item";
+import { SellableInnItem } from "./types/SellableInnItemInterface";
 
-  constructor(name, sellIn, quality) {
-    this.name = name;
-    this.sellIn = sellIn;
-    this.quality = quality;
-  }
-}
-
-export class SellableInnItem {
-  item: Item;
-
-  constructor(item) {
-    this.item = item;
-  }
-
-  updateQuality() {}
-}
-
-const displayItemsDetails = (item: Item) => `\nName: ${item.name}\nSell in: ${item.sellIn}\nQuality: ${item.quality}\n`;
+const displayItemsDetails = (item: Item) => `\nName: ${item.name}\nQuality: ${item.quality}\n`;
 
 const logItemsWithLabel = (label: string, items: Item[]) => {
   console.log(`${label}: [${items.map(displayItemsDetails).join("\n - \n")}]`);
 };
 
 export class GildedRose {
-  items: Array<Item>;
+  // sellableInnItems: SellableInnItem[];
+  items: Item[];
 
-  constructor(items = [] as Array<Item>) {
+  constructor(items: Array<Item> = []) {
+    // this.sellableInnItems = items.map(() => );
     this.items = items;
     logItemsWithLabel("Items on construction", this.items);
   }
