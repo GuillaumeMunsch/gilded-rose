@@ -1,0 +1,1281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Non regression tests Should test aged brie several times 1`] = `
+[
+  "Items on construction: [
+Name: Aged Brie
+Sell in: 15
+Quality: 25
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 15
+Quality: 25
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 14
+Quality: 26
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 14
+Quality: 26
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 13
+Quality: 27
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 13
+Quality: 27
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 12
+Quality: 28
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 12
+Quality: 28
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 11
+Quality: 29
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 11
+Quality: 29
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 10
+Quality: 30
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 10
+Quality: 30
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 9
+Quality: 31
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 9
+Quality: 31
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 8
+Quality: 32
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 8
+Quality: 32
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 7
+Quality: 33
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 7
+Quality: 33
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 6
+Quality: 34
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 6
+Quality: 34
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 5
+Quality: 35
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 5
+Quality: 35
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 4
+Quality: 36
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 4
+Quality: 36
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 3
+Quality: 37
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 3
+Quality: 37
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 2
+Quality: 38
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 2
+Quality: 38
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 1
+Quality: 39
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 1
+Quality: 39
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: 0
+Quality: 40
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: 0
+Quality: 40
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -1
+Quality: 42
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -1
+Quality: 42
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -2
+Quality: 44
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -2
+Quality: 44
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -3
+Quality: 46
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -3
+Quality: 46
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -4
+Quality: 48
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -4
+Quality: 48
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -5
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -5
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -6
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -6
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -7
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -7
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -8
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -8
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -9
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -9
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -10
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -10
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -11
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -11
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -12
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -12
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -13
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -13
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -14
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -14
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -15
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Aged Brie
+Sell in: -15
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Aged Brie
+Sell in: -16
+Quality: 50
+]",
+]
+`;
+
+exports[`Non regression tests Should test default items several times 1`] = `
+[
+  "Items on construction: [
+Name: Default item
+Sell in: 15
+Quality: 25
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 15
+Quality: 25
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 14
+Quality: 24
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 14
+Quality: 24
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 13
+Quality: 23
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 13
+Quality: 23
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 12
+Quality: 22
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 12
+Quality: 22
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 11
+Quality: 21
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 11
+Quality: 21
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 10
+Quality: 20
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 10
+Quality: 20
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 9
+Quality: 19
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 9
+Quality: 19
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 8
+Quality: 18
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 8
+Quality: 18
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 7
+Quality: 17
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 7
+Quality: 17
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 6
+Quality: 16
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 6
+Quality: 16
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 5
+Quality: 15
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 5
+Quality: 15
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 4
+Quality: 14
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 4
+Quality: 14
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 3
+Quality: 13
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 3
+Quality: 13
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 2
+Quality: 12
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 2
+Quality: 12
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 1
+Quality: 11
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 1
+Quality: 11
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: 0
+Quality: 10
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: 0
+Quality: 10
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -1
+Quality: 8
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -1
+Quality: 8
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -2
+Quality: 6
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -2
+Quality: 6
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -3
+Quality: 4
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -3
+Quality: 4
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -4
+Quality: 2
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -4
+Quality: 2
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -5
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -5
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -6
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -6
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -7
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -7
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -8
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -8
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -9
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -9
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -10
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -10
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -11
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -11
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -12
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -12
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -13
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -13
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -14
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -14
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -15
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Default item
+Sell in: -15
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Default item
+Sell in: -16
+Quality: 0
+]",
+]
+`;
+
+exports[`Non regression tests Should test sulfuras several times 1`] = `
+[
+  "Items on construction: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "Items pre updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+  "End of updateQuality: [
+Name: Sulfuras, Hand of Ragnaros
+Sell in: 15
+Quality: 45
+]",
+]
+`;
+
+exports[`Non regression tests Should test the backstage pass several times 1`] = `
+[
+  "Items on construction: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 15
+Quality: 25
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 15
+Quality: 25
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 14
+Quality: 26
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 14
+Quality: 26
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 13
+Quality: 27
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 13
+Quality: 27
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 12
+Quality: 28
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 12
+Quality: 28
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 11
+Quality: 29
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 11
+Quality: 29
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 10
+Quality: 30
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 10
+Quality: 30
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 9
+Quality: 32
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 9
+Quality: 32
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 8
+Quality: 34
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 8
+Quality: 34
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 7
+Quality: 36
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 7
+Quality: 36
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 6
+Quality: 38
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 6
+Quality: 38
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 5
+Quality: 40
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 5
+Quality: 40
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 4
+Quality: 43
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 4
+Quality: 43
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 3
+Quality: 46
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 3
+Quality: 46
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 2
+Quality: 49
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 2
+Quality: 49
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 1
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 1
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 0
+Quality: 50
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: 0
+Quality: 50
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -1
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -1
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -2
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -2
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -3
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -3
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -4
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -4
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -5
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -5
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -6
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -6
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -7
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -7
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -8
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -8
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -9
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -9
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -10
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -10
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -11
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -11
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -12
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -12
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -13
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -13
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -14
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -14
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -15
+Quality: 0
+]",
+  "Items pre updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -15
+Quality: 0
+]",
+  "End of updateQuality: [
+Name: Backstage passes to a TAFKAL80ETC concert
+Sell in: -16
+Quality: 0
+]",
+]
+`;
