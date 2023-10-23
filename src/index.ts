@@ -1,3 +1,5 @@
+import { AgedBrie } from "./types/AgedBrie";
+import { BackstagePass } from "./types/BackstagePass";
 import { Item } from "./types/Item";
 import { LegacyItem } from "./types/LegacyItem";
 import { NewItemInterface } from "./types/NewItemInterface";
@@ -14,6 +16,12 @@ export class GildedRose {
     this.items = items.map(({ name, quality, sellIn }) => {
       if (name === "Sulfuras, Hand of Ragnaros") {
         return new SulfurasItem();
+      }
+      if (name === "Aged Brie") {
+        return new AgedBrie(name, sellIn, quality);
+      }
+      if (name === "Backstage passes to a TAFKAL80ETC concert") {
+        return new BackstagePass(name, sellIn, quality);
       }
       return new LegacyItem(name, sellIn, quality);
     });
