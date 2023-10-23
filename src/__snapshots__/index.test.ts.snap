@@ -518,15 +518,15 @@ exports[`Non regression tests Should test sulfuras several times 1`] = `
 [
   "Items on construction: [
 Name: Sulfuras, Hand of Ragnaros
-Quality: 45
+Quality: 80
 ]",
   "Items pre updateQuality: [
 Name: Sulfuras, Hand of Ragnaros
-Quality: 45
+Quality: 80
 ]",
   "End of updateQuality: [
 Name: Sulfuras, Hand of Ragnaros
-Quality: 45
+Quality: 80
 ]",
 ]
 `;

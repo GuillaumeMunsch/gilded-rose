@@ -47,7 +47,7 @@ describe("Non regression tests", () => {
   it("Should test sulfuras several times", () => {
     runGoldenMaster(async () => {
       // GIVEN
-      const gildedRose = new GildedRose([{ name: "Sulfuras, Hand of Ragnaros", quality: 45, sellIn: 15 }]);
+      const gildedRose = new GildedRose([{ name: "Sulfuras, Hand of Ragnaros", quality: 80, sellIn: 15 }]);
 
       // WHEN
       gildedRose.updateQuality();

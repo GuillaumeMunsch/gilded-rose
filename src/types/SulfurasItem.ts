@@ -1,15 +1,10 @@
-import { SellableInnItem } from "./SellableInnItemInterface";
+import { NewItemInterface } from "./NewItemInterface";
 
-export class SulfurasItem implements SellableInnItem {
-  name: string;
-  sellIn: number;
-  quality: number;
-
-  constructor(name, sellIn, quality) {
-    this.name = name;
-    this.sellIn = sellIn;
-    this.quality = quality;
-  }
+export class SulfurasItem implements NewItemInterface {
+  name = "Sulfuras, Hand of Ragnaros";
+  quality = 80;
 
   updateQuality() {}
+
+  generateItemDetails = () => `\nName: ${this.name}\nQuality: ${this.quality}\n`;
 }
